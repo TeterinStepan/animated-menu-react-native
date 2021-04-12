@@ -1,0 +1,46 @@
+{
+  "name": "employee-app",
+  "description": "React Native for Web starter template",
+  "version": "2.0.0",
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.12.8",
+    "@reduxjs/toolkit": "^1.5.0",
+    "expo-blur": "^8.2.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native-gesture-handler": "^1.9.0",
+    "react-native-reanimated": "^2.0.0",
+    "react-native-router": "0.2.1",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screens": "^2.16.1",
+    "react-native-web": "^0.15.0",
+    "react-redux": "^7.2.2",
+    "react-scripts": "^4.0.3",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
