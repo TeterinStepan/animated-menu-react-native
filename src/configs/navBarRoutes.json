@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "label": "Меню",
+    "link": "Menu"
+  },
+  {
+    "id": 1,
+    "label": "Отчеты",
+    "link": "Reports"
+  },
+  {
+    "id": 2,
+    "label": "Расписание",
+    "link": "Schedule"
+  },
+  {
+    "id": 3,
+    "label": "События",
+    "link": "Notify"
+  },
+  {
+    "id": 4,
+    "label": "Клиенты",
+    "link": "Clients"
+  }
+]
+

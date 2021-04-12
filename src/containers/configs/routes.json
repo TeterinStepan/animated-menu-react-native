@@ -1,0 +1,69 @@
+[
+    {
+        "label": "Расписание",
+        "link": "/shedule"
+    },
+    {
+        "label": "Продажи",
+        "list": [
+            {
+                "label": "Документы",
+                "list": [
+                    {
+                        "label": "Визиты",
+                        "link": "/visits"
+                    }
+                ]
+            },
+            {
+                "label": "Справочники",
+                "list": [
+                    {
+                        "label": "Клиенты",
+                        "link": "/clients"
+                    },
+                    {
+                        "label": "Услуги",
+                        "link": "/services"
+                    },
+                    {
+                        "label": "Товары",
+                        "link": "/woods"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Сотрудники",
+        "list": [
+            {
+                "label": "Документы",
+                "list": [
+                    {
+                        "label": "Расход средств",
+                        "link": "/paidActs"
+                    }
+                ]
+            },
+            {
+                "label": "Справочники",
+                "list": [
+                    {
+                        "label": "Сотрудники",
+                        "link": "/employees"
+                    },
+                    {
+                        "label": "Должности",
+                        "link": "/jobPositions"
+                    },
+                    {
+                        "label": "Задачи",
+                        "link": "/tasks"
+                    }
+                ]
+            }
+        ]
+    }
+]
+
